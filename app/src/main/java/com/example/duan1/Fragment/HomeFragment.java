@@ -187,7 +187,7 @@ public class HomeFragment extends Fragment implements View.OnClickListener {
         }
 
     }
-//aaaaaa
+
 //    private void setDanhmuc() {
 //        lstDanhmuc = new ArrayList<>();
 //        lstDanhmuc.add(new Category2("Điện thoại - Máy tính", R.drawable.dienthoaimaytinh));
