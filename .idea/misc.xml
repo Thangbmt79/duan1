@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/border.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/home_danhmuc.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/home_uathich.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/home_vi.xml" value="0.2135" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/ic_apps_black_24dp.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/ic_apps_black_35dp.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/ic_content_paste_black_24dp.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/ic_insert_emoticon_black_24dp.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/ic_person_outline_black_24dp.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.167" />
+        <entry key="..\:/DuAn12/app/src/main/res/layout/activity_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAn12/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/DuAn12/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/DuAn12/app/src/main/res/layout/fragment_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAn12/app/src/main/res/layout/item_sanpham.xml" value="0.1" />
+        <entry key="..\:/DuAn12/app/src/main/res/layout/item_sp_moi.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAn12/app/src/main/res/layout/slide_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAn12/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/DuAn12/app/src/main/res/menu/menu_danh_muc.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
